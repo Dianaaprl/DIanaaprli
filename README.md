@@ -11,8 +11,9 @@ A little story about me, the name Aprilia is taken from my birth month. I was bo
 🧭 I like Javanese history<br>
 
 # <div align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/dianaapr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@dianaapr" height="30" width="40" /></a>
-<a href="https://instagram.com/dnprlia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dnprlia" height="30" width="40" /></a>
-</p>
+
+[![<Linkedin>](https://img.shields.io/badge/Linked_in-0099ff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dianaapr)
+[![<Instagram>](https://img.shields.io/badge/Instagram-003d66?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dnprlia/)
+
+
 
